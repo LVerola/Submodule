@@ -1,0 +1,3 @@
+[submodule "exemploSubmodulo"]
+	path = exemploSubmodulo
+	url = git@github.com:LVerola/Submodule_Persist.git
